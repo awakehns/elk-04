@@ -8,7 +8,11 @@
 
 `docker compose up -d`
 
+Интерфейс kibana
+
 ![kibana](/img/kibana.png)
+
+docker ps
 
 ![dockerps](/img/dockerps.png)
 
@@ -16,11 +20,7 @@
 
 ### Задание 2
 
-До запуска dummy
-
-![logs_1](/img/logs_1.png)
-
-После запуска
+Запуск dummy приложения
 
 ![pinger](/img/pinger.png)
 
